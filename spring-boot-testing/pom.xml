@@ -15,10 +15,11 @@
         <relativePath>../../parent-boot-2</relativePath>
     </parent>
 
-    <!-- This is my first comment -->
+    <!--  This is my first comment -->
     <!--  Second Test -->
-    <!-- sThis is not from Hotfix , instead Feature 1 -->
-    <!--Hotfix branch -->
+    <!--  This is not from Hotfix , instead Feature 1 -->
+    <!--  Hotfix branch -->
+    <!--  This is modified for testing -->
     
     <dependencies>
         <dependency>
