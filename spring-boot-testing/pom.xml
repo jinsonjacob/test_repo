@@ -18,6 +18,7 @@
     <!-- This is my first comment -->
     <!--  Second Test -->
     <!-- sThis is not from Hotfix , instead Feature 1 -->
+    <!--Hotfix branch -->
     
     <dependencies>
         <dependency>
