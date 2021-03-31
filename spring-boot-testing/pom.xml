@@ -21,7 +21,7 @@
     <!--  Hotfix branch -->
     <!--  This is modified for testing -->
     <!-- Pull request test -->
-    
+    <!-- Sample -->    
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
